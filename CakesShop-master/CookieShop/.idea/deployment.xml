@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="119.45.207.226" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="119.45.207.226">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/use/cookiesShop" local="$PROJECT_DIR$" web="/119.45.207.226:8080" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
